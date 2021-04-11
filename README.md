@@ -18,46 +18,47 @@ By definition, a product manager is an individual who drives the product vision 
 
 
 ## Articles
-
-- [Want To Build An Incredible Product? Strive For The Delta Of “Wow”](https://blog.usejournal.com/want-to-build-an-incredible-product-strive-for-the-delta-of-wow-f184b716af18) - By [Wayne Chang](https://twitter.com/Wayne).
-- [The Quintessential Guide For Building An Unforgettable First-time User Experience](https://hackernoon.com/the-quintessential-guide-for-building-an-unforgettable-first-time-user-experience-19720a7447d2) - By [Wayne Chang](https://twitter.com/Wayne).
-- [One door at a time](https://m.signalvnoise.com/one-door-at-a-time/) - By [Jason Fried](https://twitter.com/jasonfried).
-- [Good Product Manager/Bad Product Manager](https://a16z.com/2012/06/15/good-product-managerbad-product-manager/) - By [Ben Horowitz](https://twitter.com/bhorowitz).
-- [Guide to Career Planning](https://pmarchive.com/guide_to_career_planning_part0.html) - By [Marc Andresssen](https://twitter.com/pmarca).
-- [Guide to Personal Productivity](https://pmarchive.com/guide_to_personal_productivity.html) - By [Marc Andresssen](https://twitter.com/pmarca).
-- [PM at Microsoft](https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/) - By [Steven Sinofsky](https://twitter.com/stevesi).
-- [Hiring Your First Product Manager](https://blog.learningbyshipping.com/2015/04/07/hiring-your-first-product-manager/) - By [Steven Sinofsky](https://twitter.com/stevesi).
-- [12 Things about Product-Market Fit](https://a16z.com/2017/02/18/12-things-about-product-market-fit/) - By [Tren Griffin](https://twitter.com/trengriffin).
-- [Relentlessly Resourcefull](http://www.paulgraham.com/relres.html) - By [Paul Graham](https://twitter.com/paulg).
-- [How to Be an Expert in a Changing World](http://www.paulgraham.com/ecw.html) - By [Paul Graham](https://twitter.com/paulg).
-- [The Time Value of Shipping](https://blackboxofpm.com/the-time-value-of-shipping-6deaf8d7d565) - By [Brandon Chu](https://twitter.com/brandonmchu).
-- [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html) - By [Paul Graham](https://twitter.com/paulg).
-- [Deadlines](https://blackboxofpm.com/deadlines-d6925e5c694f) - By [Brandon Chu](https://twitter.com/brandonmchu).
-- [Ruthless Prioritization](https://blackboxofpm.com/ruthless-prioritization-e4256e3520a9) - By [Brandon Chu](https://twitter.com/brandonmchu).
-- [Understanding How The Innovator’s Dilemma Affects You](https://bothsidesofthetable.com/understanding-how-the-innovator-s-dilemma-affects-you-75563219a58d) - By [Mark Suster](https://twitter.com/msuster).
-- [Do Things that Don't Scale](http://paulgraham.com/ds.html) - By [Paul Graham](https://twitter.com/paulg).
-- [Navigating Mid-Success](https://blog.ycombinator.com/navigating-mid-success/) - By [Sam Altman](https://twitter.com/sama).
-- [How to focus on what's important, not just what's urgent](https://hbr.org/2018/07/how-to-focus-on-whats-important-not-just-whats-urgent) - By [Alice Boyes](https://twitter.com/draliceboyes).
-- [Speed as a habit](http://firstround.com/review/speed-as-a-habit/) - By [Dave Girouard](https://www.linkedin.com/in/davegirouard).
-- [A Comprehensive Guide To Product Design](https://www.smashingmagazine.com/2018/01/comprehensive-guide-product-design/) - By [Nick Babich](https://www.smashingmagazine.com/author/nickbabich).
+- [ ] Un-checked
+- [x] checked
+- [ ] [Want To Build An Incredible Product? Strive For The Delta Of “Wow”](https://blog.usejournal.com/want-to-build-an-incredible-product-strive-for-the-delta-of-wow-f184b716af18) - By [Wayne Chang](https://twitter.com/Wayne).
+- [ ] [The Quintessential Guide For Building An Unforgettable First-time User Experience](https://hackernoon.com/the-quintessential-guide-for-building-an-unforgettable-first-time-user-experience-19720a7447d2) - By [Wayne Chang](https://twitter.com/Wayne).
+- [ ] [One door at a time](https://m.signalvnoise.com/one-door-at-a-time/) - By [Jason Fried](https://twitter.com/jasonfried).
+- [ ] [Good Product Manager/Bad Product Manager](https://a16z.com/2012/06/15/good-product-managerbad-product-manager/) - By [Ben Horowitz](https://twitter.com/bhorowitz).
+- [ ] [Guide to Career Planning](https://pmarchive.com/guide_to_career_planning_part0.html) - By [Marc Andresssen](https://twitter.com/pmarca).
+- [ ] [Guide to Personal Productivity](https://pmarchive.com/guide_to_personal_productivity.html) - By [Marc Andresssen](https://twitter.com/pmarca).
+- [ ] [PM at Microsoft](https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/) - By [Steven Sinofsky](https://twitter.com/stevesi).
+- [ ] [Hiring Your First Product Manager](https://blog.learningbyshipping.com/2015/04/07/hiring-your-first-product-manager/) - By [Steven Sinofsky](https://twitter.com/stevesi).
+- [ ] [12 Things about Product-Market Fit](https://a16z.com/2017/02/18/12-things-about-product-market-fit/) - By [Tren Griffin](https://twitter.com/trengriffin).
+- [ ] [Relentlessly Resourcefull](http://www.paulgraham.com/relres.html) - By [Paul Graham](https://twitter.com/paulg).
+- [ ] [How to Be an Expert in a Changing World](http://www.paulgraham.com/ecw.html) - By [Paul Graham](https://twitter.com/paulg).
+- [ ] [The Time Value of Shipping](https://blackboxofpm.com/the-time-value-of-shipping-6deaf8d7d565) - By [Brandon Chu](https://twitter.com/brandonmchu).
+- [ ] [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html) - By [Paul Graham](https://twitter.com/paulg).
+- [ ] [Deadlines](https://blackboxofpm.com/deadlines-d6925e5c694f) - By [Brandon Chu](https://twitter.com/brandonmchu).
+- [ ] [Ruthless Prioritization](https://blackboxofpm.com/ruthless-prioritization-e4256e3520a9) - By [Brandon Chu](https://twitter.com/brandonmchu).
+- [ ] [Understanding How The Innovator’s Dilemma Affects You](https://bothsidesofthetable.com/understanding-how-the-innovator-s-dilemma-affects-you-75563219a58d) - By [Mark Suster](https://twitter.com/msuster).
+- [ ] [Do Things that Don't Scale](http://paulgraham.com/ds.html) - By [Paul Graham](https://twitter.com/paulg).
+- [ ] [Navigating Mid-Success](https://blog.ycombinator.com/navigating-mid-success/) - By [Sam Altman](https://twitter.com/sama).
+- [ ] [How to focus on what's important, not just what's urgent](https://hbr.org/2018/07/how-to-focus-on-whats-important-not-just-whats-urgent) - By [Alice Boyes](https://twitter.com/draliceboyes).
+- [ ] [Speed as a habit](http://firstround.com/review/speed-as-a-habit/) - By [Dave Girouard](https://www.linkedin.com/in/davegirouard).
+- [ ] [A Comprehensive Guide To Product Design](https://www.smashingmagazine.com/2018/01/comprehensive-guide-product-design/) - By [Nick Babich](https://www.smashingmagazine.com/author/nickbabich).
 
 ## Books
 
-- [Switch: How to Change Things When Change Is Hard](https://www.amazon.com/Switch-Change-Things-When-Hard/dp/0385528752) - By Chip Heath and Dan Heath.
-- [Made to Stick: Why Some Ideas Survive and Others Die](https://www.amazon.com/Made-Stick-Ideas-Survive-Others/dp/1400064287) - By Chip Heath and Dan Heath.
-- [The Startup Owner's Manual: The Step-By-Step Guide for Building a Great Company](https://www.amazon.com/Startup-Owners-Manual-Step-Step/dp/0984999302) - By Steve Blank and Bob Dorf.
-- [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers](https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers/dp/0470876417) - By Alexander Osterwalder and Yves Pigneur.
-- [Value Proposition Design: How to Create Products and Services Customers Want (Strategyzer)](https://www.amazon.com/Value-Proposition-Design-Customers-Strategyzer/dp/1118968050) - By Alexander Osterwalder and Yves Pigneur.
-- [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898) - By Eric Ries.
-- [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205) - By Ben Horowitz.
-- [The Four Steps to the Epiphany](https://www.amazon.com/Four-Steps-Epiphany-Steve-Blank/dp/0989200507) - By Steve Blank.
-- [The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail (Management of Innovation and Change)](https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation/dp/1633691780) - By Clayton M. Christensen.
-- [Hooked: How to Build Habit-Forming Products](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788) - By Nir Eyal.
-- [The Lean Product Playbook: How to Innovate with Minimum Viable Products and Rapid Customer Feedback](https://www.amazon.com/Lean-Product-Playbook-Innovate-Products/dp/1118960874) - By Dan Olsen.
-- [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration](https://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0812993012) - By Ed Catmull and Amy Wallace.
-- [Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221) - By John Doerr.
-- [The Design of Everyday Things: Revised and Expanded Edition](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654) - By Don Norman.
-- [Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity](https://www.amazon.com/Radical-Candor-Kickass-Without-Humanity/dp/1250103509) - By Kim Scott.
+- [ ] [Switch: How to Change Things When Change Is Hard](https://www.amazon.in/Switch-change-things-when-hard/dp/1847940323/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) - By Chip Heath and Dan Heath.
+- [ ] [Made to Stick: Why Some Ideas Survive and Others Die](https://www.amazon.in/Made-Stick-Ideas-Survive-Others/dp/1400064287/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=) - By Chip Heath and Dan Heath.
+- [ ] [The Startup Owner's Manual: The Step-By-Step Guide for Building a Great Company](https://www.amazon.in/Startup-Owners-Manual-Step-Step/dp/0984999302) - By Steve Blank and Bob Dorf.
+- [ ] [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers](https://www.amazon.in/Business-Model-Generation-Visionaries-Challengers/dp/0470876417) - By Alexander Osterwalder and Yves Pigneur.
+- [ ] [Value Proposition Design: How to Create Products and Services Customers Want (Strategyzer)](https://www.amazon.in/Value-Proposition-Design-Customers-Strategyzer/dp/1118968050) - By Alexander Osterwalder and Yves Pigneur.
+- [ ] [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses](https://www.amazon.in/Lean-Startup-Innovation-Successful-Businesses/dp/0670921602/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) - By Eric Ries.
+- [ ] [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.amazon.in/Hard-Thing-About-Things-Building/dp/0062273205) - By Ben Horowitz.
+- [ ] [The Four Steps to the Epiphany](https://www.amazon.in/Four-Steps-Epiphany-Steve-Blank/dp/0989200507) - By Steve Blank.
+- [ ] [The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail (Management of Innovation and Change)](https://www.amazon.in/Innovators-Dilemma-Technologies-Management-Innovation/dp/1633691780) - By Clayton M. Christensen.
+- [ ] [Hooked: How to Build Habit-Forming Products](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788) - By Nir Eyal.
+- [ ] [The Lean Product Playbook: How to Innovate with Minimum Viable Products and Rapid Customer Feedback](https://www.amazon.com/Lean-Product-Playbook-Innovate-Products/dp/1118960874) - By Dan Olsen.
+- [ ] [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration](https://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0812993012) - By Ed Catmull and Amy Wallace.
+- [ ] [Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221) - By John Doerr.
+- [ ] [The Design of Everyday Things: Revised and Expanded Edition](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654) - By Don Norman.
+- [ ] [Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity](https://www.amazon.in/Radical-Candor-Revised-Kick-Ass-Humanity-dp-1250235375/dp/1250235375/ref=dp_ob_title_bk) - By Kim Scott.
 
 ## Podcasts
 
